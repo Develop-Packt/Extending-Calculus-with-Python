@@ -1,2 +1,5 @@
-# Extending-Calculus-with-Python
-You will use derivatives and integrals to find maximum and minimum values in functions using Python.
+# Extending Calculus with Python
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Extending-Calculus-with-Python.svg)](https://github.com/Develop-Packt/Extending-Calculus-with-Python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Extending-Calculus-with-Python.svg)](https://github.com/Develop-Packt/Extending-Calculus-with-Python/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Extending-Calculus-with-Python.svg)](https://github.com/Develop-Packt/Extending-Calculus-with-Python/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Extending-Calculus-with-Python/pulls)
